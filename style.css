@@ -1,0 +1,42 @@
+.title
+{
+    font-size: 80px;
+    font-family: arcade normal;
+}
+.puntato
+{
+    font-size: 40px;
+    font-family: Super Legend Boy;
+    margin-top: 70px;
+    color: white;
+    margin-left: 90px;
+}
+.red
+{
+    color:red;
+}
+.green
+{
+    color:limegreen
+}
+.yellow
+{
+    color:gold;
+}
+.blue
+{
+    color:DODGERBLUE
+}
+.testo
+{
+    font-family: Super Legend Boy;
+    color: white;
+    text-align: justify;
+    font-size: 25px;
+    padding: 30px;
+    margin-left: 50px;
+}
+.li
+{
+    color:white;
+}
